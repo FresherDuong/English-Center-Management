@@ -1,0 +1,206 @@
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.exe.config
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.exe
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.pdb
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmMain.resources
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.Properties.Resources.resources
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.GenerateResource.cache
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.CoreCompileInputs.cache
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.CopyComplete
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.exe
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.pdb
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmDangNhap.resources
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csprojAssemblyReference.cache
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.ucThongTinTaiKhoan.resources
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\cuong\source\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.ucThongtinLop.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csprojAssemblyReference.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmDangNhap.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmMain.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.Properties.Resources.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucDotThi.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucThoiGianHoc.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucDanhSachLop.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucGiangVien.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucHocVien.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucNguoiDung.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucQuanLyDiem.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucQuanLyKhoa.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucThanhToan.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.ucThongtinLop.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.ucThongtinTaiKhoan.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.GenerateResource.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.CoreCompileInputs.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.exe
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.pdb
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.exe.config
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.exe
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.pdb
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\EnvDTE.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\stdole.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.CopyComplete
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_DSSV.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\RdlCompile.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\RdlCompile.compiled
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_HocPhi.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\repos\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_KQHT.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.exe.config
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.exe
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\BTL_nhom4_LaptrinhWindows.pdb
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\EnvDTE.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\stdole.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csprojAssemblyReference.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmDangNhap.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmMain.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_DSSV.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_HocPhi.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_KQHT.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.Properties.Resources.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucDotThi.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucGiangVien.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucThoiGianHoc.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucDanhSachLop.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucHocVien.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucNguoiDung.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucQuanLyDiem.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucQuanLyKhoa.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.UCs.ucThanhToan.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.ucThongtinLop.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.ucThongtinTaiKhoan.resources
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.GenerateResource.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\RdlCompile.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\RdlCompile.compiled
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.CoreCompileInputs.cache
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.csproj.CopyComplete
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.exe
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.pdb
+C:\Users\Duong Dinh\Desktop\C_Sharp\fix_exceptions\BTL_nhom4_LaptrinhWindows\obj\Debug\BTL_nhom4_LaptrinhWindows.frmReport_HocPhi_New.resources
